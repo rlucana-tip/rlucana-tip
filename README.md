@@ -2,7 +2,7 @@
 
 __Name:__ Reinhold E. Lucana
 
-__Year Level:__ Third year, Computer Engineering
+__Year Level:__ Fourth year, Computer Engineering
 
 __Interest:__ Biking/cycling, Basketball, Collecting and reading books
 
